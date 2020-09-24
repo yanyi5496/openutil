@@ -6,7 +6,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>demo for uploading</name>
+    <name>util</name>
     <description>A demo for deployment to the Central Repository via OSSRH</description>
     <url>https://github.com/yanyi5496/openutil</url>
     <licenses>
